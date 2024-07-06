@@ -2,7 +2,6 @@
 
 # Takım İsmi
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 # Ürün İle İlgili Bilgiler
 
@@ -19,15 +18,19 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 ## Ürün Açıklaması
 
-Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular birbirlerini manipüle edebildikleri etaplar içerisinde oyun bölümünü en önde tamamlamaya çalışırlar. Bölüm sonuna ilk ulaşan oyuncu ayrıcalıklı bir silaha sahip olma hakkını kazanır.
+Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular birbirlerini manipüle edebildikleri etaplar içerisinde, oyun bölümünü en önde tamamlamaya çalışırlar. Bölüm sonuna ilk ulaşan oyuncu ayrıcalıklı bir silaha sahip olma hakkını kazanır.
 
 ## Ürün Özellikleri
 
-
+- Multiplayer
+- 3D Platform oyunu
 
 
 ## Hedef Kitle
 
+- Strateji, rekabet içerikli
+- +13 yaş grubu oyuncu kitlesi
+  
 
 
 ## Product Backlog URL
