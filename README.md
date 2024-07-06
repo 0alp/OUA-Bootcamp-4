@@ -8,11 +8,11 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 ## Takım Elemanları
 
-Bengisu Atcı: Scrum Master
-Alper Han: 
-Berna Güney: 
-Alperen Önal:
-Ali Yiğit Yılmaz:
+-   Bengisu Atcı: Scrum Master
+-   Alper Han: 
+-   Berna Güney: 
+-   Alperen Önal:
+-   Ali Yiğit Yılmaz:
 
 ## Ürün İsmi
 
