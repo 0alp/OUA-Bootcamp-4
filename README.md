@@ -1,7 +1,7 @@
 # OUA-Bootcamp-4
 
 # Takım İsmi
-**Filo*
+*Filo*
 
 # Oyun İle İlgili Bilgiler
 
@@ -15,7 +15,7 @@
 
 ## Oyun İsmi
 
-**Me First*
+*Me First*
 
 ## Oyun Açıklaması
 
