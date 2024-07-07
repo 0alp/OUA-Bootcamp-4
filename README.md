@@ -67,5 +67,3 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular platformlar arasında p
      - Proje dosyasında çakışma yaşanmaması için takım üyelerinin proje üzerinde çalışmaya başlamadan haber vermesi gerektiğinin üzerinde duruldu.
      - Projeye ayırılan zaman arttırılmalı.
        
-
-## Sprint 1
