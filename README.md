@@ -5,7 +5,7 @@
 
 # Ürün İle İlgili Bilgiler
 
-## Takım Elemanları
+## Takım Üyeleri
 
 -   Bengisu Atcı: Scrum Master
 -   Alper Han: 
@@ -13,29 +13,31 @@
 -   Alperen Önal:
 -   Ali Yiğit Yılmaz:
 
-## Ürün İsmi
+## Oyun İsmi
 
 
-## Ürün Açıklaması
+## Oyun Açıklaması
 
-Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular birbirlerini manipüle edebildikleri etaplar içerisinde, oyun bölümünü en önde tamamlamaya çalışırlar. Bölüm sonuna ilk ulaşan oyuncu ayrıcalıklı bir silaha sahip olma hakkını kazanır.
+Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular parkur yarışı ile başlayıp, birbirlerini farklı özelliklerdeki silahlara sahip olarak diğer oyuncuları manipüle edebildikleri etaplar içerisinde, oyun bölümünü ilk tamamlayan olmaya çalışırlar. 
 
 ## Ürün Özellikleri
 
 - Multiplayer
-- 3D Platform oyunu
+- 3D
+- Platform
 
 
 ## Hedef Kitle
 
-- Strateji, rekabet içerikli
-- +13 yaş grubu oyuncu kitlesi
+- Strateji, rekabet içeriklerini sevenler
+- +13 yaş grubu oyuncular
+- PC oyuncuları
+- Platform türü sevenler
   
-
 
 ## Product Backlog URL
 
--Miro üzerinden yapılan yalışma örneği, şeması vb.
+-[Trello Backlog - Unity4](https://trello.com/b/x7xrlyAS/bootcamp-grup-4)
 
 
 # Sprint 1
