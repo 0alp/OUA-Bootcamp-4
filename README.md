@@ -37,7 +37,7 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular platformlar arasında p
 
 ## Product Backlog URL
 
--[Trello Backlog Unity4](https://trello.com/b/x7xrlyAS/bootcamp-grup-4)
+[Trello Backlog Unity4](https://trello.com/b/x7xrlyAS/bootcamp-grup-4)
 
 
 # Sprint 1
@@ -49,7 +49,8 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular platformlar arasında p
 -   **Daily Scrum**: Whatsapp üzerinden anket kullanılarak toplantılar planlandı ve fikirler alındı. Üyelerin müsaitlik durumuna göre Discord üzerinden toplantılar yapıldı. Genellikle 4 günde bir toplanıldı.
 
 -   Sprint 1 içerisinden Ekran görüntüleri:
-    Trello:
+  
+    -Trello:
     ![image](https://github.com/0alp/OUA-Bootcamp-4/assets/163652742/0b8425cb-b8fb-4ab4-92a2-9a9ea3a7bcdc)
     ![image](https://github.com/0alp/OUA-Bootcamp-4/assets/163652742/420948a6-479a-4508-a0f7-1edc87c5b1a3)
 
