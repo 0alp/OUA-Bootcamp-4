@@ -1,20 +1,21 @@
 # OUA-Bootcamp-4
 
 # Takım İsmi
-Filo
+**Filo*
 
 # Oyun İle İlgili Bilgiler
 
 ## Takım Üyeleri
 
 -   Bengisu Atcı: Scrum Master
--   Alper Han: 
--   Berna Güney: 
--   Alperen Önal:
--   Ali Yiğit Yılmaz:
+-   Alper Han: Product Owner
+-   Berna Güney: Developer
+-   Alperen Önal: Developer
+-   Ali Yiğit Yılmaz: Developer
 
 ## Oyun İsmi
 
+**Me First*
 
 ## Oyun Açıklaması
 
