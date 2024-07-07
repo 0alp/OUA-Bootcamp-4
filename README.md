@@ -50,7 +50,6 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular platformlar arasında p
 
 -   Sprint 1 içerisinden Ekran görüntüleri:
   
-    -Trello:
     ![image](https://github.com/0alp/OUA-Bootcamp-4/assets/163652742/0b8425cb-b8fb-4ab4-92a2-9a9ea3a7bcdc)
     ![image](https://github.com/0alp/OUA-Bootcamp-4/assets/163652742/420948a6-479a-4508-a0f7-1edc87c5b1a3)
 
