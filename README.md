@@ -1,7 +1,7 @@
 # OUA-Bootcamp-4
 
 # Takım İsmi
-- Filo
+Filo
 
 # Oyun İle İlgili Bilgiler
 
