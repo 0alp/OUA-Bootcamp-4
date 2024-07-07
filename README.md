@@ -1,9 +1,9 @@
 # OUA-Bootcamp-4
 
 # Takım İsmi
+- Filo
 
-
-# Ürün İle İlgili Bilgiler
+# Oyun İle İlgili Bilgiler
 
 ## Takım Üyeleri
 
@@ -18,9 +18,9 @@
 
 ## Oyun Açıklaması
 
-Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular parkur yarışı ile başlayıp, birbirlerini farklı özelliklerdeki silahlara sahip olarak diğer oyuncuları manipüle edebildikleri etaplar içerisinde, oyun bölümünü ilk tamamlayan olmaya çalışırlar. 
+Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular platformlar arasında parkur yaparken, farklı özelliklerdeki silahları etraftan toplayıp diğer oyuncuları manipüle edecek ve bu şekilde oyun bölümünü ilk tamamlayan olmaya çalışacaklar. 
 
-## Ürün Özellikleri
+## Oyun Özellikleri
 
 - Multiplayer
 - 3D
@@ -30,7 +30,7 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular parkur yarışı ile ba
 ## Hedef Kitle
 
 - Strateji, rekabet içeriklerini sevenler
-- +13 yaş grubu oyuncular
+- +7 yaş grubu oyuncular
 - PC oyuncuları
 - Platform türü sevenler
   
@@ -41,22 +41,31 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular parkur yarışı ile ba
 
 
 # Sprint 1
-
--   **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
     
 -   **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
     
--   **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken tahmini puan 350 olarak planlandı. İlk sprint için 100 puan hedeflendi ve 80 puana ulaşıldı.
+-   **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken tahmini puan 350 olarak planlandı. İlk sprint için 100 puan uygun görüldü.
     
 -   **Daily Scrum**: Whatsapp üzerinden anket kullanılarak toplantılar planlandı ve fikirler alındı. Üyelerin müsaitlik durumuna göre Discord üzerinden toplantılar yapıldı. Genellikle 4 günde bir toplanıldı.
 
--   Ürün Durumu: Ekran görüntüleri:
+-   Sprint 1 içerisinden Ekran görüntüleri:
+    Trello:
+    ![image](https://github.com/0alp/OUA-Bootcamp-4/assets/163652742/0b8425cb-b8fb-4ab4-92a2-9a9ea3a7bcdc)
+    ![image](https://github.com/0alp/OUA-Bootcamp-4/assets/163652742/420948a6-479a-4508-a0f7-1edc87c5b1a3)
+
 
 -   Sprint Review:
-     -  Kaç bölüm oluşturulacağına, karakterlere ve özel güç sayısına karar verildi.
-     -  Kullanılan assetlerin lowpoly olması planlandı.
+     -  Kaç bölüm oluşturulacağına, karakterlere ve özel güç sayısına karar verildi. Silahlar da çoğunlukla kesinleşti.
+     -  Kullanılan assetlerin lowpoly olması planlandı ve assetler kararlaştırıldı.
+     -  Görevlendirmeler üzerinde konuşuldu.
+     -  Rol dağılımları yapıldı.
      -  Sprint Review katılımcıları: Alperen Önal, Alper Han, Berna Güney, Bengisu Atcı, Ali Yiğit Yılmaz.
 
 -   Sprint Retrospective:
+     - **Sprint içinde alınan puan 80'dir.** İlk bölümün tasarımı sonraki sprinte kalmıştır.
+     - Takım üyelerinin Trello'yu aktif olarak kontrol etmesi hatırlatıldı.
+     - Proje dosyasında çakışma yaşanmaması için takım üyelerinin proje üzerinde çalışmaya başlamadan haber vermesi gerektiğinin üzerinde duruldu.
+     - Projeye ayırılan zaman arttırılmalı.
+       
 
 ## Sprint 1
