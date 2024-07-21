@@ -73,7 +73,7 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular platformlar arasında p
     
 -   **Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
     
--   **Daily Scrum**: Whatsapp üzerinden görüşmeler yapıldı fakat takım üyelerinin yoğunluğu sebebiyle Discord toplanısı yapılamadı. Whatssap üzerinden fikir alışverişi yapıldı.
+-   **Daily Scrum**: Whatsapp üzerinden görüşmeler yapıldı fakat takım üyelerinin yoğunluğu sebebiyle Discord toplanısı yapılamadı. Whatsapp üzerinden fikir alışverişi yapıldı.
 
 -   Sprint 2 içerisinden Ekran görüntüleri:
   
