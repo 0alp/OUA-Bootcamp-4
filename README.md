@@ -67,4 +67,25 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular platformlar arasında p
      - Takım üyelerinin Trello'yu aktif olarak kontrol etmesi hatırlatıldı.
      - Proje dosyasında çakışma yaşanmaması için takım üyelerinin proje üzerinde çalışmaya başlamadan haber vermesi gerektiğinin üzerinde duruldu.
      - Projeye ayırılan zaman arttırılmalı.
-       
+
+
+# Sprint 2
+    
+-   **Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
+    
+-   **Daily Scrum**: Whatsapp üzerinden görüşmeler yapıldı fakat takım üyelerinin yoğunluğu sebebiyle Discord toplanısı yapılamadı. Whatssap üzerinden fikir alışverişi yapıldı.
+
+-   Sprint 2 içerisinden Ekran görüntüleri:
+  
+    ![image](https://github.com/user-attachments/assets/dfd8a783-5a5c-4c1a-ac4e-0017cd3ce7be)
+
+
+-   Sprint Review:
+     -  Sprint içerisinde roller yeniden konuşuldu ama takım üyelerinin yoğunlukları ve bu yoğunlukların çakışmasıyla ilerleme kaydedilemedi.
+     -  Bölüm uzunluklarının planlanandan kısa olması daha verimli olabilr.
+     -  Sprint Review katılımcıları: Alperen Önal, Alper Han, Berna Güney, Bengisu Atcı, Ali Yiğit Yılmaz.
+
+-   Sprint Retrospective:
+     - **Sprint içinde alınan puan 0'dır.** Bu sprintin yükü sonraki sprinte kaymıştır.
+     - Takım üyelerinin sonraki sprint zamanında daha aktif olacağının planı yapıldı, müsait olamadığımız bu sprintin telafisinin yapılacağı konuşuldu.
+     - İletişime ve projeye ayırılan zaman arttırılmalı.
