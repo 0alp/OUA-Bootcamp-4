@@ -89,3 +89,34 @@ Oyunumuz 3D multiplayer bir platform oyunudur. Oyuncular platformlar arasında p
      - **Sprint içinde alınan puan 0'dır.** Bu sprintin yükü sonraki sprinte kaymıştır.
      - Takım üyelerinin sonraki sprint zamanında daha aktif olacağının planı yapıldı, müsait olamadığımız bu sprintin telafisinin yapılacağı konuşuldu.
      - İletişime ve projeye ayırılan zaman arttırılmalı.
+ 
+
+# Sprint 3
+    
+-   **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+    
+-   **Daily Scrum**: Whatsapp üzerinden görüşüldü, proje üzerine güncellemeler konuşuldu ve arada Discord üzerinden toplantı yapıldı.
+
+-   Sprint 3 içerisinden Ekran görüntüleri:
+    
+    ![image](https://github.com/user-attachments/assets/ab4cf108-5c6f-4273-9d90-0b872a83964e)
+    ![image](https://github.com/user-attachments/assets/3a849df5-f47e-4286-a3fd-f3aa876e5547)
+
+    ![image](https://github.com/user-attachments/assets/8d4a245b-e72b-46b5-a2b8-89c689829f54)
+    ![image](https://github.com/user-attachments/assets/988e6199-a430-4f08-b10b-2a5b46e25c23)
+    ![image](https://github.com/user-attachments/assets/2fb50e3e-a232-4a34-918d-32f3f2c4bd46)
+
+
+-   Sprint Review:
+     -  Sprint içerisinde bir kriz ve yoğunluk değerlendirilmesi yapıldı. Bazı planlanan şeylerin sadeleştirilmesine karar verildi.
+     -  Planlanan özel yetenekler çıkartıldı ve parkura yoğunlaşıldı. 
+     -  Karakter assetlerinde değişikliğe gidildi, harita tasarımı yapıldı ve test edildi. Online eklentiler ve karakter kodları entegre edildi. UI tasarımları yapıldı.
+     -  Takım üyeleri bulundukları yoğunluk içerisinde bu şekilde toparlanılabilindiğ için memnun kaldı. 
+     -  Sprint Review katılımcıları: Alperen Önal, Alper Han, Berna Güney, Bengisu Atcı, Ali Yiğit Yılmaz.
+
+-   Sprint Retrospective:
+     - **Sprint içinde alınan puan 140'dır.** Karakter özel güçleri kaldırıldığı için 20 puan düşüldü. Onun dışında planlanan şeyler yapıldı.
+       
+       
+     
+
